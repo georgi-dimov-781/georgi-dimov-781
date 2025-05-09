@@ -19,9 +19,11 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
 
-<img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding Animation" />
+<img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding Animation" style="margin-bottom: 20px; position: relative; z-index: 1;" />
 
 Web Developer with a strong background in back-end development, site building, and agile methodologies. Proficient in PHP, Drupal, JavaScript, and more. Passionate about delivering high-quality, scalable solutions and mentoring students in web development.
+
+<br clear="right">
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Professional Journey
 
