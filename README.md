@@ -146,6 +146,12 @@ Web Developer with a strong background in back-end development, site building, a
   <img src="https://skillicons.dev/icons?i=git,docker,gitlab,bitbucket,vscode" />
   <img src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png" width="48" height="48" title="PhpStorm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="48" height="48" title="Yarn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" title="Composer" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" width="48" height="48" title="FileZilla" />
+
+  <h3>QA & Testing</h3>
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" title="Postman" />
+  <img src="https://www.browserstack.com/images/static/header-logo.jpg" width="80" height="48" title="BrowserStack" style="background: #0B2340; border-radius: 4px; object-fit: contain;" />
 
   <h3>Project Management</h3>
   <img src="https://skillicons.dev/icons?i=github" />
