@@ -27,11 +27,7 @@ const GeorgiDimov = {
 
 Web Developer with a foundation in full-stack technologies, site building, and agile methodologies. Proficient in PHP, Drupal, JavaScript, and more. Passionate about delivering high-quality, scalable solutions and mentoring students in web development.
 
-
-
 ---
-
-<br clear="right">
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Professional Journey
 
@@ -69,73 +65,35 @@ Web Developer with a foundation in full-stack technologies, site building, and a
   </table>
 </div>
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> My Expertise
+## 🎯 Core Competencies
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="60" height="60">
-        <br>
-        <strong>Drupal Site Building</strong>
-        <br>
-        <small>Expert in Drupal 9/10 architecture, module development, and theming</small>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60">
-        <br>
-        <strong>Back-end Development</strong>
-        <br>
-        <small>Proficient with PHP (7.4–8.2), building robust server-side applications</small>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60">
-        <br>
-        <strong>Front-end Technologies</strong>
-        <br>
-        <small>Experienced with Twig, SCSS, JavaScript, and Vue.js for interactive UIs</small>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" height="60">
-        <br>
-        <strong>DevOps</strong>
-        <br>
-        <small>Docker (Docksal), Git workflow, continuous integration practices</small>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="60" height="60" alt="Drupal"/>
+<br><strong>Drupal Architecture</strong>
+<br><small>Expertise in Drupal 9/10/11 architecture, module development, theming development</small>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60" alt="PHP"/>
+<br><strong>PHP Development</strong>
+<br><small>Proficient with PHP (7.4–8.2), OOP, building server-side applications/websites</small>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+<br><strong>Frontend Integration</strong>
+<br><small>Experience with Twig, SCSS, JavaScript, Vue.js for interactive UIs. Enthusiast in React/Next.js</small>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" alt="DevOps"/>
+<br><strong>DevOps Practices</strong>
+<br><small>Docker (Docksal), Git workflow, continuous integration practices</small>
+</td>
+</tr>
+</table>
 </div>
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"> Interests
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Web_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CMS_Technologies-FF6C37?style=for-the-badge&logo=drupal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing_&_QA-14B8A6?style=for-the-badge&logo=testcafe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team_Collaboration-2684FF?style=for-the-badge&logo=trello&logoColor=white" />
-</div>
-
-## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25"> Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/georgi-dimov-gd/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:georgidimovkj781@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/georgi-dimov-781">
-    <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Location-Plovdiv,%20Bulgaria-4B5563?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 ---
 
@@ -159,15 +117,25 @@ Web Developer with a foundation in full-stack technologies, site building, and a
 
   <h3>QA & Testing</h3>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="48" height="48" title="Postman" />
-  <img src="https://www.browserstack.com/images/static/header-logo.jpg" width="80" height="48" title="BrowserStack" style="background: #0B2340; border-radius: 4px; object-fit: contain;" />
+  <img src="https://www.svgrepo.com/show/353515/browserstack.svg" width="80" height="48" title="BrowserStack" style="background: #0B2340; border-radius: 4px; object-fit: contain;" />
 
   <h3>Project Management</h3>
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" title="Jira" />
-<img src="https://www.svgrepo.com/show/509866/confluence.svg" alt="Confluence" width="48" height="48" style="background: #0065FF; margin: 10px;" />
+<img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="Confluence" width="48" height="48" style="background: #0065FF; margin: 10px;" />
 </div>
 
 ---
+
+## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25"> Interests
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Web_Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/CMS_Technologies-FF6C37?style=for-the-badge&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing_&_QA-14B8A6?style=for-the-badge&logo=testcafe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team_Collaboration-2684FF?style=for-the-badge&logo=trello&logoColor=white" />
+</div>
+
 
 ## Languages
 
@@ -190,8 +158,24 @@ Web Developer with a foundation in full-stack technologies, site building, and a
 
 ---
 
+## 📫 Let's Connect!
+
 <div align="center">
-  <blockquote>
-    "The best way to predict the future is to implement it."
-  </blockquote>
+
+I'm always interested in discussing web development, sharing knowledge, or exploring new opportunities. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/Professional_Network-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimov-gd/)
+[![Email](https://img.shields.io/badge/Direct_Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgidimovkj781@gmail.com)
+[![GitHub](https://img.shields.io/badge/Code_Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/georgi-dimov-781)
+
 </div>
+
+---
+
+<div align="center">
+  
+*"The best way to predict the future is to implement it."*
+
+**⭐ Thanks for visiting my profile! ⭐**
+
+![Profile Views](https://komarev.com/ghpvc/?username=georgi-dimov-781&color=6366f1&style=for-the-badge)
