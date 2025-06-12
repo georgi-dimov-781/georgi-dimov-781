@@ -1,27 +1,35 @@
-# <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Georgi+Dimov" alt="Georgi Dimov" /></div>
+# 👋 Hi, I'm Georgi Dimov
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/georgi-dimov-gd/">
-    <img alt="LinkedIn Follow" src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:georgidimovkj781@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  </div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Drupal+Developer;Web+Developert;Problem+Solver)](https://git.io/typing-svg)
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Drupal+Developer;PHP+Developer;Web+Developer;t" alt="Typing SVG" />
-</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgi-dimov-gd/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgidimovkj781@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Plovdiv-Bulgaria-4B5563?style=for-the-badge)](https://goo.gl/maps/plovdiv)
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
+---
 
-<img align="right" width="300" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="Coding Animation" style="margin-bottom: 20px; position: relative; z-index: 1;" />
+## 🚀 About Me
 
-Web Developer with a strong background in back-end development, site building, and agile methodologies. Proficient in PHP, Drupal, JavaScript, and more. Passionate about delivering high-quality, scalable solutions and mentoring students in web development.
+```typescript
+const GeorgiDimov = {
+    role: "Web Developer",
+    location: "Plovdiv, Bulgaria 🇧🇬",
+    education: "Bachelor's in Software Technology and Design",
+    passion: "Building scalable web solutions & mentoring students",
+    currentFocus: "Modern web technologies",
+    languages: ["Bulgarian (Native)", "English (Fluent)", "German (Intermediate)"]
+};
+```
+
+Web Developer with a foundation in full-stack technologies, site building, and agile methodologies. Proficient in PHP, Drupal, JavaScript, and more. Passionate about delivering high-quality, scalable solutions and mentoring students in web development.
+
+
+
+---
 
 <br clear="right">
 
