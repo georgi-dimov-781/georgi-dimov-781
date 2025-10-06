@@ -61,7 +61,7 @@ Web Developer with a foundation in full-stack technologies, site building, and a
         <br/>
         <em>University of Plovdiv Paisii Hilendarski</em>
         <br/>
-        November 2022 – February 2023
+        November 2022 – Present
       </td>
     </tr>
     <tr>
