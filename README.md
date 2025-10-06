@@ -34,6 +34,17 @@ Web Developer with a foundation in full-stack technologies, site building, and a
 <div align="center">
   <table border="0">
     <tr>
+      <td colspan="2" align="center">
+        <img src="https://img.icons8.com/color/48/000000/laptop.png" width="50" height="50"/>
+        <br/>
+        <strong>Web Developer</strong>
+        <br/>
+        <em>Freelance</em>
+        <br/>
+        February 2024 – Present
+      </td>
+    </tr>
+    <tr>
       <td width="50%" align="center">
         <img src="https://img.icons8.com/color/48/000000/work.png" width="50" height="50"/>
         <br/>
